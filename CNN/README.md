@@ -29,7 +29,7 @@ pip3 install poetry
 ```bash
 git clone https://github.com/harsh15044/audio-emotion-recognition.git
 
-cd audio-emotion-recognition
+cd audio-emotion-recognition/CNN
 ```
 
 3. Install dependencies with Poetry:
